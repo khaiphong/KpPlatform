@@ -13,6 +13,8 @@
 edition = "2021"
 name = "container"
 version = "0.1.0"
+description = "It is the platform minimum OCI with required namespaces and cgroups"
+license = "Apache-2.0"
 
 [dependencies.rand]
 version = "0.8.5"
