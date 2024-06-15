@@ -1,0 +1,1 @@
+/home/batien/Kp/GitSrc/github.com/khaiphong/KpPlatform/target/package/container-0.1.0/target/debug/libcontainer.rlib: /home/batien/Kp/GitSrc/github.com/khaiphong/KpPlatform/target/package/container-0.1.0/src/lib.rs
