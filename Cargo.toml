@@ -3,5 +3,4 @@ members = [
     "platform",
     "container",
 ]
-
-
+resolver = "2"
